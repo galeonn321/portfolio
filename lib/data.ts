@@ -35,7 +35,20 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Odlamer",
+    title: "JLCoders - Full Stack Developer",
+    location: "Stockholm, Sweden",
+    description:
+      ` - Initiated and developed a new web product using React.js, Typescript, Next.js.
+        - Developed a frontend efficient custom implementation of backend data handling with modification, search, and pagination.
+        - Optimized website performance by refining older code.
+        - reducing unnecessary data requests and enhancing maintainability. 
+        - Supported our native (mobile) apps with React Native.js with Android Studio, and Xcode.
+        - Played a crucial role in the release process for Google Play and the Apple App Store.`,
+    icon: React.createElement(CgWorkAlt),
+    date: "2023 - 2024",
+  },
+  {
+    title: "Odlamer - React Native",
     location: "Stockholm, Sweden",
     description:
       "I worked as a full-stack mobile app developer for 1 year, Tools and Technologies Used: React Native, Javascript ES6+, TypeScript, Redux, Firebase, Giphy API, Git, npm, Expo, React Navigation",
@@ -65,7 +78,15 @@ export const projectsData = [
     title: "Central-Film",
     description:
       "A Full-stack app, this project about films where I get all the films from TMBD API and I'll add my own rating and commenting system.",
-    tags: ["React Native", "Expo", "GlueStack", "Node", "MongoDB", "redux", "Context-API"],
+    tags: [
+      "React Native",
+      "Expo",
+      "GlueStack",
+      "Node",
+      "MongoDB",
+      "redux",
+      "Context-API",
+    ],
     imageUrl: centralFilm,
     link: "https://github.com/galeonn321/central-film",
   },
@@ -73,7 +94,7 @@ export const projectsData = [
     title: "Pokemon API",
     description:
       "Pokemon API is a React Native application I developed as part of a coding test. It leverages Expo, TypeScript, and the Pokemon API to create a digital encyclopedia of Pokemon creatures.",
-    tags: ["React Native", "TypeScript", "Tailwind,","Pokemon-API"],
+    tags: ["React Native", "TypeScript", "Tailwind,", "Pokemon-API"],
     imageUrl: pokemon,
     link: "https://github.com/galeonn321/pokemonAPI",
   },
