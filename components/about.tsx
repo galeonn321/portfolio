@@ -28,7 +28,7 @@ export default function About() {
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          React, React Native, Next.js, Node.js, and MongoDB
+          React, React Native, Next.js, Node.js, GraphQL and MongoDB
         </span>
         . I am also familiar with TypeScript and Prisma. I am always looking to
         learn new technologies. I am currently looking for a{" "}
