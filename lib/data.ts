@@ -43,7 +43,7 @@ export const experiencesData = [
         - Supported our native (mobile) apps with React Native.js with Android Studio, and Xcode.
         - Played a crucial role in the release process for Google Play and the Apple App Store.`,
     icon: React.createElement(CgWorkAlt),
-    date: "2023 - 2024",
+    date: "Oct 2023 - Jun 2024",
   },
   {
     title: "Odlamer - React Native",
@@ -51,7 +51,7 @@ export const experiencesData = [
     description:
       "I worked as a full-stack mobile app developer for 1 year, Tools and Technologies Used: React Native, Javascript ES6+, TypeScript, Redux, Firebase, Giphy API, Git, npm, Expo, React Navigation",
     icon: React.createElement(CgWorkAlt),
-    date: "2022 - 2023",
+    date: "Sep 2022 - Sep 2023",
   },
   {
     title: "Front-end Developer",
