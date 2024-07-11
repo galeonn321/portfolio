@@ -33,7 +33,7 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "JLCoders - Full Stack Developer",
+    title: "JLCoders - Front-End Developer",
     location: "Stockholm, Sweden",
     description:
       ` - Initiated and developed a new web product using React.js, Typescript, Next.js.
