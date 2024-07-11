@@ -1,10 +1,8 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import centralFilm from "@/public/centralFilm.png";
 import pokemon from "@/public/pokemon-API.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
 
 export const links = [
   {
