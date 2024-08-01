@@ -86,7 +86,7 @@ export const projectsData = [
       "Context-API",
     ],
     imageUrl: centralFilm,
-    link: "https://github.com/galeonn321/central-film",
+    link: "https://github.com/galeonn321/cf-react-native",
   },
   {
     title: "Pokemon API",
