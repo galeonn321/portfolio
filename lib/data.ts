@@ -99,7 +99,7 @@ export const projectsData = [
   {
     title: "Blog post App",
     description:
-      "Developed a blog post reading app using React Native, integrating the JSONPlaceholder API. The app allows users to browse posts, view individual posts with comments, and filter posts by user. Focused on clean, functional code and intuitive design, leveraging tools like TypeScript, Axios, and Tanstack Query.",
+      "Developed a blog post reading app using React Native, integrating the JSONPlaceholder API. The app allows users to browse posts, view individual posts with comments, and filter posts by user. Focused on clean, functional code and intuitive design",
     tags: [
       "React Native",
       "Expo",
@@ -107,9 +107,6 @@ export const projectsData = [
       "React Navigation",
       "Tanstack Query",
       "Axios",
-      "Prettier",
-      "ESLint",
-      "Jest",
       "FlashList",
       "date-fns",
     ],
