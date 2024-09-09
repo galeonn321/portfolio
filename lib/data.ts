@@ -132,4 +132,8 @@ export const skillsData = [
   "MongoDB",
   "Redux",
   "Express",
+  "TanStack Query",
+  "Axios",
+  "React Navigation",
+  "Expo Router",
 ] as const;
