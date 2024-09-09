@@ -3,6 +3,7 @@ import { CgWorkAlt } from "react-icons/cg";
 import { LuGraduationCap } from "react-icons/lu";
 import centralFilm from "@/public/centralFilm.png";
 import pokemon from "@/public/pokemon-API.png";
+import blogPost from "@/public/blog-post-app.png";
 
 export const links = [
   {
@@ -35,8 +36,7 @@ export const experiencesData = [
   {
     title: "JLCoders - Front-End Developer",
     location: "Stockholm, Sweden",
-    description:
-      ` - Initiated and developed a new web product using React.js, Typescript, Next.js.
+    description: ` - Initiated and developed a new web product using React.js, Typescript, Next.js.
         - Developed a frontend efficient custom implementation of backend data handling with modification, search, and pagination.
         - Optimized website performance by refining older code.
         - reducing unnecessary data requests and enhancing maintainability. 
@@ -96,14 +96,26 @@ export const projectsData = [
     imageUrl: pokemon,
     link: "https://github.com/galeonn321/pokemonAPI",
   },
-  // {
-  //   title: "Word Analytics",
-  //   description:
-  //     "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-  //   tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-  //   imageUrl: wordanalyticsImg,
-  //   link: "https://github.com/galeonn321/central-film",
-  // },
+  {
+    title: "Blog post App",
+    description:
+      "Developed a blog post reading app using React Native, integrating the JSONPlaceholder API. The app allows users to browse posts, view individual posts with comments, and filter posts by user. Focused on clean, functional code and intuitive design, leveraging tools like TypeScript, Axios, and Tanstack Query.",
+    tags: [
+      "React Native",
+      "Expo",
+      "TypeScript",
+      "React Navigation",
+      "Tanstack Query",
+      "Axios",
+      "Prettier",
+      "ESLint",
+      "Jest",
+      "FlashList",
+      "date-fns",
+    ],
+    imageUrl: blogPost,
+    link: "https://github.com/galeonn321/ravenpack_blog_post_app",
+  },
 ] as const;
 
 export const skillsData = [
