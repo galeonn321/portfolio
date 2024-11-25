@@ -8,8 +8,8 @@ import ContactFormEmail from "@/email/contact-form-email";
 const resend = new Resend(process.env.RESEND_API_KEY);
 
 export const sendEmail = async (formData: FormData) => {
-  
-  
+
+
   const senderEmail = formData.get("senderEmail");
   const message = formData.get("message");
 
@@ -30,7 +30,7 @@ export const sendEmail = async (formData: FormData) => {
     data = await resend.emails.send({
       from: "Contact Form <onboarding@resend.dev>",
       to: "santiagomaruriramos@gmail.com",
-      subject: "Message from contact form",
+      subject: "Meesage from your portfolio",
       reply_to: senderEmail,
       react: React.createElement(ContactFormEmail, {
         message: message,
