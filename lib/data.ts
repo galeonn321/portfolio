@@ -4,6 +4,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import centralFilm from "@/public/centralFilm.png";
 import pokemon from "@/public/pokemon-API.png";
 import blogPost from "@/public/blog-post-app.png";
+import atecfet from "@/public/atecfet-project.png";
 
 export const links = [
   {
@@ -72,6 +73,20 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+  {
+    title: "Atecfet Projects",
+    description:
+      "Portfolio showcasing innovative projects developed with cutting-edge technologies, highlighting my ability to create impactful and efficient solutions.",
+    tags: [
+      "Next.js",
+      "Tailwind",
+      "Vercel",
+      "Context-API",
+      "Framer-motion",
+    ],
+    imageUrl: atecfet,
+    link: "https://atecfet.vercel.app/",
+  },
   {
     title: "Central-Film",
     description:
