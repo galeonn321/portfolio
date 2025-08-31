@@ -34,6 +34,16 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
+    {
+        title: "Pango - Full Stack Developer",
+        location: "Stockholm, Sweden",
+        description: ` Full-Stack Developer at Pango.ai building e-commerce logistics solutions that transform
+         shipping and returns into profit opportunities. I develop analytics dashboards and carrier API integrations
+          using React, PHP Laravel, and Apache Solr to process high-volume logistics data, creating unified tracking
+           systems and responsive interfaces with Shopify Polaris that help merchants scale operations through data-driven automation.`,
+        icon: React.createElement(CgWorkAlt),
+        date: "May 2025 - Present",
+    },
 	{
 		title: "JLCoders - Front-End Developer",
 		location: "Stockholm, Sweden",
@@ -125,24 +135,31 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
-	"HTML",
-	"CSS",
-	"JavaScript",
-	"React Native",
-	"Next.js",
-	"TypeScript",
-	"React",
-	"Expo",
-	"Next.js",
-	"Node.js",
-	"Git",
-	"GlueStack",
-	"Tailwind",
-	"MongoDB",
-	"Redux",
-	"Express",
-	"TanStack Query",
-	"Axios",
-	"React Navigation",
-	"Expo Router",
+    "React",
+    "TypeScript",
+    "JavaScript (ES6+)",
+    "Next.js",
+    "HTML5",
+    "CSS3",
+    "React Native",
+    "Expo",
+    "React Navigation",
+    "Expo Router",
+    "Redux",
+    "TanStack Query",
+    "Axios",
+    "Tailwind CSS",
+    "Shopify Polaris",
+    "GlueStack UI",
+    "Responsive Design",
+    "Node.js",
+    "Express.js",
+    "PHP",
+    "Laravel",
+    "RESTful APIs",
+    "MongoDB",
+    "Apache Solr",
+    "Git",
+    "GitHub",
+    "npm/yarn",
 ] as const;

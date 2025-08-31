@@ -19,21 +19,14 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Front-end development</span>, I enrolled in a company
-        called Odlamer where I learned more about front and also back-end. {" "}
-{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, React Native, Next.js, Node.js, GraphQL and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+          After graduating with a degree in Front-end Development, I joined Odlamer where I expanded my expertise across the full stack.
+          Currently, I'm a Full-Stack Developer at Pango.ai, building enterprise e-commerce logistics solutions that process high-volume
+          shipping data and transform operational challenges into revenue opportunities for online merchants. My favorite part of programming
+          is the problem-solving aspect—I love architecting solutions that directly impact business outcomes. My core stack includes React, TypeScript,
+          Next.js, React Native, Node.js, PHP Laravel, and MongoDB, with expertise in Apache Solr for search optimization and TanStack Query for state management.
+          I'm passionate about learning cutting-edge technologies and currently exploring AI integrations and advanced data analytics. I am authorized to work in the
+          US and actively seeking full-time software development opportunities where I can contribute to innovative products. When I'm not coding, I enjoy gaming, films,
+          and learning about fashion and history—interests that often inspire creative approaches to user experience design.
       </p>
 
       <p>
