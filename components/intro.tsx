@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src={require("../assets/My picture.png")}
+              src={require("../assets/My picture.jpg")}
               alt="Santiago portrait"
               width="400"
               height="400"
